@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmsiz8O9ryrxNrR9UknyW/+uwBegZi4YG+nlkvTQ35GZw7SWdQu3KlNteFlpVMpCAEZXNuBHZX9rokIcx33AGQ==",
+  "success": true,
+  "projectFilePath": "/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/TransportLy.csproj",
+  "expectedPackageFiles": [
+    "/Users/josi/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

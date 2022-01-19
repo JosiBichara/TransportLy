@@ -1,0 +1,15 @@
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/Data/orders.json
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/TransportLy.deps.json
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/TransportLy.runtimeconfig.json
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/TransportLy.runtimeconfig.dev.json
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/TransportLy.dll
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/TransportLy.pdb
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.csprojAssemblyReference.cache
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.AssemblyInfoInputs.cache
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.AssemblyInfo.cs
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.csproj.CoreCompileInputs.cache
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.csproj.CopyComplete
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.dll
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.pdb
+/Users/josi/Documents/Projetos/ConsoleApplication/TransportLy/obj/Release/netcoreapp3.1/TransportLy.genruntimeconfig.cache
